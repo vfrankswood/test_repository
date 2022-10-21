@@ -4,5 +4,6 @@ articles = {
     "WH": "POTUS congratulates Zelenskii",
     "Sport": "Dynamo Kyiv lost 3 matches in UCL. Nothing new here",
     "Films": 'The Last of us series is finally on air.',
-    "Economics": "China starves. They just bet on wrong part of the war. To be continued"
+    "Economics": "China starves. They just bet on wrong part of the war. To be continued",
+    "Trash": '100000000000 Russians died in Ukraine'
             }

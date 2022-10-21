@@ -1,0 +1,5 @@
+**/logs
+example.pickle
+.idea
+__pycache__
+**/models

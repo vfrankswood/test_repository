@@ -13,5 +13,7 @@ if not selected_genre:
 article = get_article(selected_genre)
 st.write(article)
 
+st.write('Stay tuned!')
+
 
 

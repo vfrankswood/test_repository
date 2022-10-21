@@ -9,3 +9,5 @@ def get_article(genre):
     article = articles[genre]
 
     return article
+
+True
